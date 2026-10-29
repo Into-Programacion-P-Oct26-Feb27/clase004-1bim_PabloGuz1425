@@ -51,3 +51,4 @@ public class Ejemplo3 {
     }
     
 }
+// Cuando se piden primero los valores de cadena no es necesario excribir el entrada.nextLine
